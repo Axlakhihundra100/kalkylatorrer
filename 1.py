@@ -1,3 +1,4 @@
+# simpel miniräknare
 väljräkning = input("hur villdu räkna? (fyraräknesätten, cirkelnsomkrets)")
 if väljräkning == "fyraräknesätten":
     tal1 = float(input("Ange tal ett: "))

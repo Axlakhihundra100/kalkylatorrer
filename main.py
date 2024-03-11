@@ -1,3 +1,5 @@
+# anteckningar från 140923
+
 # användarinput
 namn = input("Ange ditt namn: ")
 print (namn)
